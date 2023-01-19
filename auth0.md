@@ -15,7 +15,7 @@ the next steps:
 
 ```javascript
 const domain = "centauroplay.us.auth0.com";
-const clientId = "8dDhsS9O4LXsMRQ1LvRRYF9HUVutTEFG";
+const clientId = "<CLIENT ID>";
 ```
 
 3. After that, we begin the login process in the main html file. It is a good idea use
