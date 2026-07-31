@@ -1,0 +1,332 @@
+[
+    {
+        "Departamento":"Amazonas",
+        "Municipios":2,
+        "Capital":"Leticia",
+        "Superficie":109665,
+        "Poblaci\u00f3n":74541,
+        "Densidad":0.7,
+        "IDH6":0.768,
+        "Fecha de creaci\u00f3n":1928
+    },
+    {
+        "Departamento":"Antioquia",
+        "Municipios":125,
+        "Capital":"Medell\u00edn",
+        "Superficie":63612,
+        "Poblaci\u00f3n":6299886,
+        "Densidad":95.4,
+        "IDH6":0.849,
+        "Fecha de creaci\u00f3n":1856
+    },
+    {
+        "Departamento":"Arauca",
+        "Municipios":7,
+        "Capital":"Arauca",
+        "Superficie":23818,
+        "Poblaci\u00f3n":256527,
+        "Densidad":10.4,
+        "IDH6":0.804,
+        "Fecha de creaci\u00f3n":1911
+    },
+    {
+        "Departamento":"Atl\u00e1ntico",
+        "Municipios":23,
+        "Capital":"Barranquilla",
+        "Superficie":3019,
+        "Poblaci\u00f3n":2403027,
+        "Densidad":766.6,
+        "IDH6":0.835,
+        "Fecha de creaci\u00f3n":1905
+    },
+    {
+        "Departamento":"Bogot\u00e1",
+        "Municipios":0,
+        "Capital":"Bogot\u00e1",
+        "Superficie":1775,
+        "Poblaci\u00f3n":7878783,
+        "Densidad":4146.0,
+        "IDH6":0.904,
+        "Fecha de creaci\u00f3n":1538
+    },
+    {
+        "Departamento":"Bol\u00edvar",
+        "Municipios":45,
+        "Capital":"Cartagena de Indias",
+        "Superficie":25978,
+        "Poblaci\u00f3n":2049083,
+        "Densidad":76.2,
+        "IDH6":0.823,
+        "Fecha de creaci\u00f3n":1857
+    },
+    {
+        "Departamento":"Boyac\u00e1",
+        "Municipios":123,
+        "Capital":"Tunja",
+        "Superficie":23012,
+        "Poblaci\u00f3n":1272844,
+        "Densidad":55.1,
+        "IDH6":0.842,
+        "Fecha de creaci\u00f3n":1857
+    },
+    {
+        "Departamento":"Caldas",
+        "Municipios":27,
+        "Capital":"Manizales",
+        "Superficie":7888,
+        "Poblaci\u00f3n":984128,
+        "Densidad":124.0,
+        "IDH6":0.828,
+        "Fecha de creaci\u00f3n":1905
+    },
+    {
+        "Departamento":"Caquet\u00e1",
+        "Municipios":16,
+        "Capital":"Florencia",
+        "Superficie":88965,
+        "Poblaci\u00f3n":465477,
+        "Densidad":5.0,
+        "IDH6":0.752,
+        "Fecha de creaci\u00f3n":1909
+    },
+    {
+        "Departamento":"Casanare",
+        "Municipios":19,
+        "Capital":"Yopal",
+        "Superficie":44490,
+        "Poblaci\u00f3n":344027,
+        "Densidad":7.3,
+        "IDH6":0.867,
+        "Fecha de creaci\u00f3n":1973
+    },
+    {
+        "Departamento":"Cauca",
+        "Municipios":41,
+        "Capital":"Popay\u00e1n",
+        "Superficie":29308,
+        "Poblaci\u00f3n":1354744,
+        "Densidad":45.0,
+        "IDH6":0.782,
+        "Fecha de creaci\u00f3n":1857
+    },
+    {
+        "Departamento":"Cesar",
+        "Municipios":25,
+        "Capital":"Valledupar",
+        "Superficie":22905,
+        "Poblaci\u00f3n":1004064,
+        "Densidad":42.2,
+        "IDH6":0.81,
+        "Fecha de creaci\u00f3n":1967
+    },
+    {
+        "Departamento":"Choc\u00f3",
+        "Municipios":31,
+        "Capital":"Quibd\u00f3",
+        "Superficie":46530,
+        "Poblaci\u00f3n":490327,
+        "Densidad":10.2,
+        "IDH6":0.731,
+        "Fecha de creaci\u00f3n":1906
+    },
+    {
+        "Departamento":"C\u00f3rdoba",
+        "Municipios":30,
+        "Capital":"Monter\u00eda",
+        "Superficie":25020,
+        "Poblaci\u00f3n":1658090,
+        "Densidad":63.3,
+        "IDH6":0.798,
+        "Fecha de creaci\u00f3n":1952
+    },
+    {
+        "Departamento":"Cundinamarca",
+        "Municipios":116,
+        "Capital":"Bogot\u00e1",
+        "Superficie":24210,
+        "Poblaci\u00f3n":2598245,
+        "Densidad":102.3,
+        "IDH6":0.837,
+        "Fecha de creaci\u00f3n":1857
+    },
+    {
+        "Departamento":"Guain\u00eda",
+        "Municipios":1,
+        "Capital":"In\u00edrida",
+        "Superficie":72238,
+        "Poblaci\u00f3n":40203,
+        "Densidad":0.5,
+        "IDH6":0.768,
+        "Fecha de creaci\u00f3n":1963
+    },
+    {
+        "Departamento":"Guaviare",
+        "Municipios":4,
+        "Capital":"San Jos\u00e9 del Guaviare",
+        "Superficie":52957,
+        "Poblaci\u00f3n":107934,
+        "Densidad":1.95,
+        "IDH6":0.768,
+        "Fecha de creaci\u00f3n":1977
+    },
+    {
+        "Departamento":"Huila",
+        "Municipios":37,
+        "Capital":"Neiva",
+        "Superficie":19890,
+        "Poblaci\u00f3n":1126314,
+        "Densidad":54.5,
+        "IDH6":0.807,
+        "Fecha de creaci\u00f3n":1905
+    },
+    {
+        "Departamento":"La Guajira",
+        "Municipios":15,
+        "Capital":"Riohacha",
+        "Superficie":20848,
+        "Poblaci\u00f3n":902386,
+        "Densidad":39.3,
+        "IDH6":0.691,
+        "Fecha de creaci\u00f3n":1898
+    },
+    {
+        "Departamento":"Magdalena",
+        "Municipios":30,
+        "Capital":"Santa Marta",
+        "Superficie":23188,
+        "Poblaci\u00f3n":1235425,
+        "Densidad":52.0,
+        "IDH6":0.785,
+        "Fecha de creaci\u00f3n":1857
+    },
+    {
+        "Departamento":"Meta",
+        "Municipios":29,
+        "Capital":"Villavicencio",
+        "Superficie":85635,
+        "Poblaci\u00f3n":924843,
+        "Densidad":10.2,
+        "IDH6":0.822,
+        "Fecha de creaci\u00f3n":1905
+    },
+    {
+        "Departamento":"Nari\u00f1o",
+        "Municipios":64,
+        "Capital":"Pasto",
+        "Superficie":32820,
+        "Poblaci\u00f3n":1701840,
+        "Densidad":50.0,
+        "IDH6":0.773,
+        "Fecha de creaci\u00f3n":1904
+    },
+    {
+        "Departamento":"Norte de Santander",
+        "Municipios":40,
+        "Capital":"San Jos\u00e9 de C\u00facuta",
+        "Superficie":21648,
+        "Poblaci\u00f3n":1332335,
+        "Densidad":61.0,
+        "IDH6":0.799,
+        "Fecha de creaci\u00f3n":1910
+    },
+    {
+        "Departamento":"Putumayo",
+        "Municipios":13,
+        "Capital":"Mocoa",
+        "Superficie":24885,
+        "Poblaci\u00f3n":337054,
+        "Densidad":13.1,
+        "IDH6":0.759,
+        "Fecha de creaci\u00f3n":1905
+    },
+    {
+        "Departamento":"Quind\u00edo",
+        "Municipios":12,
+        "Capital":"Armenia",
+        "Superficie":1845,
+        "Poblaci\u00f3n":568473,
+        "Densidad":308.1,
+        "IDH6":0.832,
+        "Fecha de creaci\u00f3n":1966
+    },
+    {
+        "Departamento":"Risaralda",
+        "Municipios":14,
+        "Capital":"Pereira",
+        "Superficie":4140,
+        "Poblaci\u00f3n":941283,
+        "Densidad":223.5,
+        "IDH6":0.839,
+        "Fecha de creaci\u00f3n":1966
+    },
+    {
+        "Departamento":"San Andr\u00e9s y Providencia",
+        "Municipios":2,
+        "Capital":"San Andr\u00e9s",
+        "Superficie":52,
+        "Poblaci\u00f3n":75167,
+        "Densidad":1410.0,
+        "IDH6":0.834,
+        "Fecha de creaci\u00f3n":1912
+    },
+    {
+        "Departamento":"Santander",
+        "Municipios":87,
+        "Capital":"Bucaramanga",
+        "Superficie":30537,
+        "Poblaci\u00f3n":2340988,
+        "Densidad":65.8,
+        "IDH6":0.879,
+        "Fecha de creaci\u00f3n":1857
+    },
+    {
+        "Departamento":"Sucre",
+        "Municipios":26,
+        "Capital":"Sincelejo",
+        "Superficie":10670,
+        "Poblaci\u00f3n":834927,
+        "Densidad":76.0,
+        "IDH6":0.775,
+        "Fecha de creaci\u00f3n":1966
+    },
+    {
+        "Departamento":"Tolima",
+        "Municipios":47,
+        "Capital":"Ibagu\u00e9",
+        "Superficie":23562,
+        "Poblaci\u00f3n":1400203,
+        "Densidad":58.9,
+        "IDH6":0.804,
+        "Fecha de creaci\u00f3n":1861
+    },
+    {
+        "Departamento":"Valle del Cauca",
+        "Municipios":42,
+        "Capital":"Cali",
+        "Superficie":22195,
+        "Poblaci\u00f3n":4520166,
+        "Densidad":197.5,
+        "IDH6":0.861,
+        "Fecha de creaci\u00f3n":1910
+    },
+    {
+        "Departamento":"Vaup\u00e9s",
+        "Municipios":3,
+        "Capital":"Mit\u00fa",
+        "Superficie":54135,
+        "Poblaci\u00f3n":42817,
+        "Densidad":0.8,
+        "IDH6":0.768,
+        "Fecha de creaci\u00f3n":1910
+    },
+    {
+        "Departamento":"Vichada",
+        "Municipios":4,
+        "Capital":"Puerto Carre\u00f1o",
+        "Superficie":100947,
+        "Poblaci\u00f3n":68575,
+        "Densidad":0.6,
+        "IDH6":0.768,
+        "Fecha de creaci\u00f3n":1913
+    }
+]
